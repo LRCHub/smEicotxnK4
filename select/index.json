@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "プラトニックチョロイン",
+  "base_artist": "のんふぃく！",
+  "createdAt": "2026-01-05T03:10:47.536313Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プラトニックチョロイン",
+      "artist": "のんふぃく!",
+      "has_synced": false,
+      "path": "select/pl_01_プラトニックチョロイン_のんふぃく!.txt"
+    }
+  ]
+}
